@@ -1,4 +1,4 @@
-## Hi! 🐵
+# Hi! 🐵
 ### about me
 - aspiring software engineer
 - cs & ds student at Virginia Tech 
