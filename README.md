@@ -1,6 +1,6 @@
 ## Hi!🐵
 
-asipiring software engineer<br>
+aspiring software engineer<br>
 
 cs & ds student at Virginia Tech <br>
 interested in full stack, and applied data science
