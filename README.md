@@ -1,8 +1,8 @@
 ## Hi! 🐵
 ### about me
- ↳ aspiring software engineer<br>
- ↳ cs & ds student at Virginia Tech <br>
- ↳ interested in full stack, and applied data science
+&nbsp;&nbsp;&nbsp;&nbsp;↳ aspiring software engineer<br>
+&nbsp;&nbsp;&nbsp;&nbsp;↳ cs & ds student at Virginia Tech <br>
+&nbsp;&nbsp;&nbsp;&nbsp;↳ interested in full stack, and applied data science
 
 reach out if you'd like to chat —
 - <a href="mailto:newtonma7@gmail.com">**email**</a>
