@@ -1,9 +1,12 @@
-# Hi!
-training myself to be a great software engineer<br>
+### Hi!
 
-computer science & data science student at Virginia Tech
+_asipiring software engineer_
 
+<br>
+
+cs & ds student at Virginia Tech <br>
 interested in full stack, and applied data science
 
-reach out if you'd like to chat!
-<a href="mailto:newtonma7@gmail.com">email</a>
+<br>
+
+reach out if you'd like to chat — <a href="mailto:newtonma7@gmail.com">**email**</a>
