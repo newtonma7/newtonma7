@@ -2,7 +2,7 @@
 ### about me
 - aspiring software engineer
 - cs & ds student at Virginia Tech 
-- interested in full stack, and applied data science
+- interested in cloud development, full stack, and building scalable systems
 
 reach out if you'd like to chat,
 - <a href="mailto:newtonma7@gmail.com">**email**</a>
