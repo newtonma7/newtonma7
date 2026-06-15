@@ -1,7 +1,7 @@
 # Hi! 🐵
 ### about me
 - aspiring software engineer
-- cs & ds student at Virginia Tech 
+- cs & math student at Virginia Tech 
 - interested in cloud development, agentic ai, and web design
 
 reach out if you'd like to chat,
