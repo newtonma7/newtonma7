@@ -2,7 +2,7 @@
 ### about me
 - aspiring software engineer
 - cs & math student at Virginia Tech 
-- interested in cloud development, agentic ai, and web design
+- interested in full-stack, agentic ai + applied ml, and web design
 
 reach out if you'd like to chat,
 - <a href="mailto:newtonma7@gmail.com">**email**</a>
