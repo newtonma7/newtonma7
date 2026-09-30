@@ -1,6 +1,6 @@
 # Hi! 🐵
 ### about me
-- aspiring software engineer
+- junior trying to be a 10x dev
 - cs & math student at Virginia Tech 
 - interested in full-stack, and agentic ai + applied ml
 
