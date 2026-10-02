@@ -1,6 +1,6 @@
 # Hi! 🐵
 ### about me
-- junior trying to become a 10x dev
+- junior dev trying to become a 10x dev
 - cs & math student at Virginia Tech 
 - interested in full-stack, and agentic ai + applied ml
 
