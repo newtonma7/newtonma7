@@ -9,3 +9,5 @@ reach out if you'd like to chat,
 - <a href="https://www.linkedin.com/in/newtonma7/">**linkedin**</a>
 - <a href="https://newtonma.dev">**website**</a>
 
+### AI Studio
+- Working with the Break Through Tech team and Cyera on [AI tool discovery and risk classification](https://github.com/Break-Through-Tech/Cyera-1A-ai-tool-discovery-and-risk-classification).
